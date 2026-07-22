@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Playfair Display", serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-blue-50: #f0f9fe;
+  --color-blue-100: #e0f2fe;
+  --color-blue-150: #bae6fd;
+  --color-blue-200: #bae6fd;
+  --color-blue-300: #7dd3fc;
+  --color-blue-400: #38bdf8;
+  --color-blue-500: #1da3e2;
+  --color-blue-600: #1da3e2;
+  --color-blue-700: #0e84c0;
+  --color-blue-800: #0c6a9b;
+  --color-blue-900: #0e567b;
+  --color-blue-950: #0a334c;
+}
+
+html {
+  font-size: 17px; /* Increases all rem-based sizes by 1 point from default 16px */
+}
+
+@layer utilities {
+  /* Print styling rules */
+  @media print {
+    body {
+      background: white !important;
+      color: black !important;
+    }
+    .no-print {
+      display: none !important;
+    }
+    .print-only {
+      display: block !important;
+    }
+    .print-card {
+      border: 1px solid #ccc !important;
+      box-shadow: none !important;
+      break-inside: avoid;
+    }
+  }
+}
+
+/* Hide all scrollbars globally but preserve scrollability */
+* {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE 10+ */
+}
+*::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, and Opera */
+  width: 0;
+  height: 0;
+}
+

@@ -1,0 +1,170 @@
+[
+  {
+    "job": "Kitchen Cabinet Repainting & Refacing",
+    "tradeType": "Professional Finisher / Painter",
+    "costBasis": "Flat Rate per Project Size",
+    "recommendedPrice": 1800,
+    "description": "Chemical wash, sanding, filling grain, applying high-durability primer, and spraying two coats of cabinet-grade enamel paint."
+  },
+  {
+    "job": "Standard Cabinetry Installation",
+    "tradeType": "Finish Carpenter",
+    "costBasis": "Flat Rate per Cabinet Box",
+    "recommendedPrice": 2200,
+    "description": "Leveling, scribing, mounting stock/semi-custom cabinet boxes, fastening to wall studs, and aligning doors/drawers."
+  },
+  {
+    "job": "Custom Cabinetry & Joinery Fitting",
+    "tradeType": "Master Cabinet Maker",
+    "costBasis": "Project Flat Rate",
+    "recommendedPrice": 6500,
+    "description": "Precision fitting of bespoke solid hardwood storage units, integrated toe-kicks, and premium soft-close crown detailing."
+  },
+  {
+    "job": "Laminate Countertop Installation",
+    "tradeType": "Carpenter / Handyworker",
+    "costBasis": "Hourly Trade Rate (Approx. $65/hr)",
+    "recommendedPrice": 550,
+    "description": "Scribing mitered joints, sealing seams, cutout out sink hole, and securing top to cabinet boxes."
+  },
+  {
+    "job": "Butcher Block Countertop Fit & Seal",
+    "tradeType": "Woodworker / Carpenter",
+    "costBasis": "Project Flat Rate",
+    "recommendedPrice": 1100,
+    "description": "Precision cutout, sealing end grain, gluing joints, sanding smooth, and treating wood with mineral oils."
+  },
+  {
+    "job": "Quartz/Granite/Marble Countertop Fabrication & Fitment",
+    "tradeType": "Stone Fabricator & Installer",
+    "costBasis": "Project Flat Rate",
+    "recommendedPrice": 1900,
+    "description": "On-site template creation, diamond-saw wet cutting, profiling edges, undermounting sink clips, and epoxy bonding seams."
+  },
+  {
+    "job": "Luxury Vinyl Plank (LVP) Flooring Laying",
+    "tradeType": "Flooring Installer",
+    "costBasis": "Flat Rate per SqFt (Approx. $3.50/sqft)",
+    "recommendedPrice": 1100,
+    "description": "Laying vapor barriers, cutting planks, snapping click-lock joints, rolling floor, and installing expansion moldings."
+  },
+  {
+    "job": "Ceramic or Porcelain Floor Tiling",
+    "tradeType": "Tile Setter",
+    "costBasis": "Flat Rate per SqFt (Approx. $8.00/sqft)",
+    "recommendedPrice": 2600,
+    "description": "Mortar bed leveling, spreading thin-set adhesive, laying large tiles with leveling clips, and hand-rubbing grout joints."
+  },
+  {
+    "job": "Hardwood Flooring Laying & Sealing",
+    "tradeType": "Wood Flooring Craftsman",
+    "costBasis": "Flat Rate per SqFt (Approx. $10.00/sqft)",
+    "recommendedPrice": 3200,
+    "description": "Acclimatizing premium hardwood boards, pneumatic secret nailing, floor sanding, applying low-VOC clear matte sealer coats."
+  },
+  {
+    "job": "Standard Interior Prep & Paint",
+    "tradeType": "Professional Painter",
+    "costBasis": "Project Flat Rate",
+    "recommendedPrice": 550,
+    "description": "Taping off trims, filling nail holes, texturing patches, and applying one primer coat with two premium wall colors."
+  },
+  {
+    "job": "Backsplash Subway Tile Installation",
+    "tradeType": "Tile Setter",
+    "costBasis": "Project Flat Rate",
+    "recommendedPrice": 1050,
+    "description": "Prepping drywall backer, running laser lines, manual tile cutting, tile layout in staggered pattern, and grout wiping."
+  },
+  {
+    "job": "Premium Full-Slab Countertop Backsplash Mounting",
+    "tradeType": "Stone Installer",
+    "costBasis": "Project Flat Rate",
+    "recommendedPrice": 1900,
+    "description": "Drilling electrical outlets in solid quartz slabs, hoisting heavy pieces, and mounting vertical back-splashes flush to wall."
+  },
+  {
+    "job": "Plumbing Sink & Faucet Connection",
+    "tradeType": "Licensed Plumber",
+    "costBasis": "Hourly Trade Rate (Approx. $125/hr)",
+    "recommendedPrice": 350,
+    "description": "Connecting hot/cold shutoff valves, linking drain traps, mounting faucets, and hooking up sink basket drains."
+  },
+  {
+    "job": "Plumbing & Gas Line Relocation",
+    "tradeType": "Licensed Plumber",
+    "costBasis": "Flat Rate by Scope",
+    "recommendedPrice": 2700,
+    "description": "Core drilling foundation slabs, re-routing water delivery lines, venting drains, and testing pressure-tight gas pipe joints."
+  },
+  {
+    "job": "Basic Appliance Connection",
+    "tradeType": "Appliance Installer / Electrician",
+    "costBasis": "Hourly Trade Rate",
+    "recommendedPrice": 350,
+    "description": "Uncrating appliances, leveling refrigerator, connecting dishwasher water/drain, and plugging in electric range."
+  },
+  {
+    "job": "Recessed LED Can Lights Installation",
+    "tradeType": "Licensed Electrician",
+    "costBasis": "Flat Rate per Light Can (Approx. $110/can)",
+    "recommendedPrice": 750,
+    "description": "Fishing copper Romex wiring through ceiling joists, cutting holes, mounting junction boxes, and wiring dimmer switches."
+  },
+  {
+    "job": "Smart Lighting Controls & Automation Setup",
+    "tradeType": "Smart Integration Technician",
+    "costBasis": "Hourly Trade Rate (Approx. $150/hr)",
+    "recommendedPrice": 950,
+    "description": "Installing smart multi-pole switches, setting up central smart home bridges, programming light scenes, and app sync."
+  },
+  {
+    "job": "Custom Tile Shower Surround Laying",
+    "tradeType": "Master Tile Setter",
+    "costBasis": "Flat Rate per Shower",
+    "recommendedPrice": 3200,
+    "description": "Building curb framing, sealing mud-pan liners, installing cement boards, applying liquid waterproof membranes, and layout tiling."
+  },
+  {
+    "job": "Bathroom Single/Double Vanity Mounting",
+    "tradeType": "Finish Carpenter / Plumber",
+    "costBasis": "Project Flat Rate",
+    "recommendedPrice": 950,
+    "description": "Scribing cabinet backs, fastening vanity to wall studs, mounting top, and caulking joints."
+  },
+  {
+    "job": "Living Room Craftsman Trim & Moldings",
+    "tradeType": "Finish Carpenter",
+    "costBasis": "Flat Rate per Linear Foot",
+    "recommendedPrice": 1200,
+    "description": "Miter cutting crown molding angles, installing thick baseboards, capping window casings, and wood filler prep."
+  },
+  {
+    "job": "Demolition & Construction Rubble Removal",
+    "tradeType": "Demolition Crew",
+    "costBasis": "Daily Rate with Dumpster Fee",
+    "recommendedPrice": 1350,
+    "description": "Removing old cabinets/counters safely, stripping floor adhesive, sweeping studs, hauling heavy items to dumpsters."
+  },
+  {
+    "job": "Structural Wall Removal with Header Steel",
+    "tradeType": "Structural Carpenter / Welder",
+    "costBasis": "Project Flat Rate",
+    "recommendedPrice": 3800,
+    "description": "Erecting temporary structural walls, dropping studs, framing double LVL headers or steel beams, and post anchoring."
+  },
+  {
+    "job": "Electrical Service Upgrade (200 Amp Panel)",
+    "tradeType": "Licensed Master Electrician",
+    "costBasis": "Project Flat Rate",
+    "recommendedPrice": 1900,
+    "description": "Installing 200A main service panel, driving grounding rods, running heavy copper mains, and wiring smart safety breakers."
+  },
+  {
+    "job": "Elevated Deck Post & Framing Installation",
+    "tradeType": "Framing Carpenter",
+    "costBasis": "Project Flat Rate",
+    "recommendedPrice": 2200,
+    "description": "Digging deep holes, pouring concrete piles, mounting heavy support posts, leveling joist frames, and structural strapping."
+  }
+]

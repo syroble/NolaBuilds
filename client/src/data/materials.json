@@ -1,0 +1,590 @@
+[
+  {
+    "name": "Repaint / Reface Cabinet Supplies",
+    "description": "Professional sand, prime, and repaint supplies or replacement door faces.",
+    "category": "Cabinets",
+    "room": "Kitchen",
+    "price": 650
+  },
+  {
+    "name": "Stock Cabinets",
+    "description": "Pre-fabricated, mass-produced standard cabinet boxes in limited styles.",
+    "category": "Cabinets",
+    "room": "Kitchen",
+    "price": 3800
+  },
+  {
+    "name": "Semi-Custom Cabinets",
+    "description": "Built-to-order cabinet options with adjustable depths, inserts, and classic finishes.",
+    "category": "Cabinets",
+    "room": "Kitchen",
+    "price": 7800
+  },
+  {
+    "name": "Custom Cabinets",
+    "description": "Bespoke solid hardwood cabinetry made to the kitchen's exact footprint with soft-close mechanisms.",
+    "category": "Cabinets",
+    "room": "Kitchen",
+    "price": 15500
+  },
+  {
+    "name": "Laminate Countertop",
+    "description": "Lightweight plastic laminate bonded to particleboard core.",
+    "category": "Countertops",
+    "room": "Kitchen",
+    "price": 600
+  },
+  {
+    "name": "Butcher Block (Wood) Countertop",
+    "description": "Warm, natural timber strips glued together. Perfect for rustic accents.",
+    "category": "Countertops",
+    "room": "Kitchen",
+    "price": 1600
+  },
+  {
+    "name": "Engineered Quartz Countertop",
+    "description": "Highly non-porous crushed quartz mixed with resin. Maintenance-free.",
+    "category": "Countertops",
+    "room": "Kitchen",
+    "price": 4600
+  },
+  {
+    "name": "Natural Granite Countertop",
+    "description": "Slabs cut from natural quarries with unique organic veining. Requires sealing.",
+    "category": "Countertops",
+    "room": "Kitchen",
+    "price": 5400
+  },
+  {
+    "name": "Premium Marble Countertop",
+    "description": "The ultimate luxury statement with exquisite organic grey veining.",
+    "category": "Countertops",
+    "room": "Kitchen",
+    "price": 8800
+  },
+  {
+    "name": "Luxury Vinyl Plank (LVP)",
+    "description": "100% waterproof wood-mimic planks. Ideal for high traffic and moisture.",
+    "category": "Flooring",
+    "room": "Kitchen",
+    "price": 950
+  },
+  {
+    "name": "Laminate Flooring",
+    "description": "Compressed fiberboard with a hard wear-resistant visual layer.",
+    "category": "Flooring",
+    "room": "Kitchen",
+    "price": 1300
+  },
+  {
+    "name": "Ceramic / Porcelain Tile",
+    "description": "Kiln-fired clay tiles. Indestructible, scratch-resistant, and entirely waterproof.",
+    "category": "Flooring",
+    "room": "Kitchen",
+    "price": 2400
+  },
+  {
+    "name": "Engineered / Solid Hardwood Flooring",
+    "description": "Authentic premium natural timber. Adds substantial home resale value.",
+    "category": "Flooring",
+    "room": "Kitchen",
+    "price": 4800
+  },
+  {
+    "name": "Standard Interior Wall Paint",
+    "description": "Mid-grade durable latex paint for standard wall coverage.",
+    "category": "Paint",
+    "room": "Kitchen",
+    "price": 180
+  },
+  {
+    "name": "Premium Scuff-Resistant Paint",
+    "description": "Benjamin Moore Regal or Sherwin Williams Emerald washable coatings.",
+    "category": "Paint",
+    "room": "Kitchen",
+    "price": 320
+  },
+  {
+    "name": "Designer Venetian / Plaster Finishes",
+    "description": "Ultra-premium textured Farrow & Ball treatments or hand-troweled lime wash.",
+    "category": "Paint",
+    "room": "Kitchen",
+    "price": 650
+  },
+  {
+    "name": "Ceramic Backsplash Tile",
+    "description": "Standard glossed decorative tiles in creative mosaic patterns.",
+    "category": "Backsplash",
+    "room": "Kitchen",
+    "price": 450
+  },
+  {
+    "name": "Classic Subway Backsplash Tile",
+    "description": "Elegant running bond rectangular tiles in clean white or neutral tones.",
+    "category": "Backsplash",
+    "room": "Kitchen",
+    "price": 650
+  },
+  {
+    "name": "Modern Glass Backsplash Tile",
+    "description": "Light-catching translucent mosaic blocks that wipe clean instantly.",
+    "category": "Backsplash",
+    "room": "Kitchen",
+    "price": 1300
+  },
+  {
+    "name": "Natural Stone Slab Backsplash",
+    "description": "Continuing the countertop quartz or marble slab up the wall for high-end symmetry.",
+    "category": "Backsplash",
+    "room": "Kitchen",
+    "price": 2400
+  },
+  {
+    "name": "Standard Drop-In Sink",
+    "description": "Double-bowl stainless steel or composite drop-in rimmed basin.",
+    "category": "Sink",
+    "room": "Kitchen",
+    "price": 220
+  },
+  {
+    "name": "Undermount Stainless Sink",
+    "description": "Mounted below countertops for smooth sweep-in kitchen prep.",
+    "category": "Sink",
+    "room": "Kitchen",
+    "price": 450
+  },
+  {
+    "name": "Farmhouse Apron-Front Sink",
+    "description": "Deep-basin glazed fireclay or rustic exposed-front ceramic sink.",
+    "category": "Sink",
+    "room": "Kitchen",
+    "price": 850
+  },
+  {
+    "name": "Workstation Chef Sink",
+    "description": "Extra-wide undermount with integrated ledge tracks for cutting boards and colanders.",
+    "category": "Sink",
+    "room": "Kitchen",
+    "price": 1300
+  },
+  {
+    "name": "Basic Chrome Kitchen Faucet",
+    "description": "Functional single-lever or dual-knob classic tap.",
+    "category": "Faucet",
+    "room": "Kitchen",
+    "price": 80
+  },
+  {
+    "name": "Pull-Down Spray Faucet",
+    "description": "High-arch matte black or brushed gold faucet with magnetic pullout sprayer.",
+    "category": "Faucet",
+    "room": "Kitchen",
+    "price": 280
+  },
+  {
+    "name": "Smart Touchless Faucet",
+    "description": "Motion-sensor electronic flow control with hands-free operation.",
+    "category": "Faucet",
+    "room": "Kitchen",
+    "price": 550
+  },
+  {
+    "name": "Basic Appliance Package",
+    "description": "Stainless steel refrigerator, range, microwave, and standard dishwasher.",
+    "category": "Appliances",
+    "room": "Kitchen",
+    "price": 2200
+  },
+  {
+    "name": "Mid-Range Appliance Package",
+    "description": "Counter-depth French door fridge, convection gas range, and sensor dishwasher.",
+    "category": "Appliances",
+    "room": "Kitchen",
+    "price": 4800
+  },
+  {
+    "name": "Premium Luxury Appliance Package",
+    "description": "Chef-grade Wolf, Sub-Zero, or JennAir built-in panel-ready units.",
+    "category": "Appliances",
+    "room": "Kitchen",
+    "price": 12500
+  },
+  {
+    "name": "Standard Lighting Fixtures",
+    "description": "Replacement semi-flush mount modern LED dome ceiling fixtures.",
+    "category": "Lighting",
+    "room": "Kitchen",
+    "price": 160
+  },
+  {
+    "name": "Recessed LED Can Lights",
+    "description": "Slim 4 to 8 multi-zone recessed LED downlight panels with dimmers.",
+    "category": "Lighting",
+    "room": "Kitchen",
+    "price": 550
+  },
+  {
+    "name": "Designer Pendants & Sconces",
+    "description": "Decorative hand-blown glass or metal pendant drop cords for island highlights.",
+    "category": "Lighting",
+    "room": "Kitchen",
+    "price": 850
+  },
+  {
+    "name": "Smart Ambience Lighting System",
+    "description": "Under-cabinet neon runs, kick-plate lighting, and app-controllable color tuning.",
+    "category": "Lighting",
+    "room": "Kitchen",
+    "price": 1750
+  },
+  {
+    "name": "Prefab Acrylic Surround Tub/Shower",
+    "description": "Standard prefabricated clean acrylic back walls and built-in tub basin.",
+    "category": "Shower & Tub",
+    "room": "Bathroom",
+    "price": 1200
+  },
+  {
+    "name": "Classic Subway Tiled Shower",
+    "description": "Full waterproof cement board backer topped with elegant hand-laid white subway tiles.",
+    "category": "Shower & Tub",
+    "room": "Bathroom",
+    "price": 2800
+  },
+  {
+    "name": "Walk-In Custom Stone Spa",
+    "description": "Curbless shower pan, custom stone slab accents, and premium frameless heavy glass panels.",
+    "category": "Shower & Tub",
+    "room": "Bathroom",
+    "price": 7500
+  },
+  {
+    "name": "Pre-Assembled Single Vanity",
+    "description": "Compact single-basin pre-assembled vanity with solid ceramic countertop.",
+    "category": "Vanity & Cabinets",
+    "room": "Bathroom",
+    "price": 650
+  },
+  {
+    "name": "Double Vanity with Quartz Top",
+    "description": "Sleek double-sink wide vanity with pre-installed durable quartz top.",
+    "category": "Vanity & Cabinets",
+    "room": "Bathroom",
+    "price": 1800
+  },
+  {
+    "name": "Bespoke Hardwood Double Vanity",
+    "description": "Custom Cypress or White Oak floating double vanity with high-end matching mirrors.",
+    "category": "Vanity & Cabinets",
+    "room": "Bathroom",
+    "price": 4200
+  },
+  {
+    "name": "Luxury Vinyl Plank (LVP) - Bathroom Grade",
+    "description": "100% waterproof synthetic interlocking planks suitable for damp zones.",
+    "category": "Flooring",
+    "room": "Bathroom",
+    "price": 350
+  },
+  {
+    "name": "Ceramic Bathroom Tile",
+    "description": "Sturdy non-slip ceramic flooring tiles in traditional grids.",
+    "category": "Flooring",
+    "room": "Bathroom",
+    "price": 750
+  },
+  {
+    "name": "Porcelain Hex/Herringbone Mosaic",
+    "description": "Intricate slip-resistant mosaic porcelain tiles for a classical floor.",
+    "category": "Flooring",
+    "room": "Bathroom",
+    "price": 1400
+  },
+  {
+    "name": "Heated Natural Marble Tiles",
+    "description": "Schluter floor heating wire mesh system covered in natural Carrara marble.",
+    "category": "Flooring",
+    "room": "Bathroom",
+    "price": 3200
+  },
+  {
+    "name": "Basic Faucet & Toilet Package",
+    "description": "Chrome single-handle faucet with round standard ceramic toilet bowl.",
+    "category": "Plumbing Fixtures & Toilet",
+    "room": "Bathroom",
+    "price": 320
+  },
+  {
+    "name": "Matte Black Multi-Function Faucet Set",
+    "description": "Rain showerhead, matching hand wand, vanity tap, and elongated comfortable toilet.",
+    "category": "Plumbing Fixtures & Toilet",
+    "room": "Bathroom",
+    "price": 850
+  },
+  {
+    "name": "Luxury Body-Sprays & Smart Toilet",
+    "description": "Thermostatic multi-valve wall sprays, luxury designer faucet, and smart bidet toilet.",
+    "category": "Plumbing Fixtures & Toilet",
+    "room": "Bathroom",
+    "price": 3500
+  },
+  {
+    "name": "Standard Anti-Mildew Paint Coating",
+    "description": "Two coats of specialized moisture-resistant eggshell bathroom paint.",
+    "category": "Moisture-Resistant Paint",
+    "room": "Bathroom",
+    "price": 120
+  },
+  {
+    "name": "Premium Moore Aura Waterborne Paint",
+    "description": "Exceptional water-barrier and color-locking technology in a beautiful matte coating.",
+    "category": "Moisture-Resistant Paint",
+    "room": "Bathroom",
+    "price": 220
+  },
+  {
+    "name": "Venetian Plaster or Shiplap Accent Panel",
+    "description": "Water-sealed horizontal cedar shiplap paneling or hand-crafted waterproof plaster walls.",
+    "category": "Moisture-Resistant Paint",
+    "room": "Bathroom",
+    "price": 650
+  },
+  {
+    "name": "Simple Over-Mirror Bar Light",
+    "description": "Update existing light box with a fresh 3-bulb chrome LED bar.",
+    "category": "Vanity & Ambient Lighting",
+    "room": "Bathroom",
+    "price": 120
+  },
+  {
+    "name": "LED Backlit Mirror & Recessed Pots",
+    "description": "Anti-fog high-definition backlit LED smart vanity mirror with flush downlights.",
+    "category": "Vanity & Ambient Lighting",
+    "room": "Bathroom",
+    "price": 450
+  },
+  {
+    "name": "Designer Sconces & Dimmable Shower Cans",
+    "description": "Visual Comfort wet-rated wall sconces and integrated safe shower ceiling potlight.",
+    "category": "Vanity & Ambient Lighting",
+    "room": "Bathroom",
+    "price": 1100
+  },
+  {
+    "name": "Premium Plush Carpet with Padding",
+    "description": "Stain-resistant thick living room carpet with luxurious 8lb rubber padding.",
+    "category": "Flooring",
+    "room": "Living Space",
+    "price": 1200
+  },
+  {
+    "name": "Engineered European Oak Flooring",
+    "description": "Wide-plank oak timber flooring with matte oil finish seal.",
+    "category": "Flooring",
+    "room": "Living Space",
+    "price": 3500
+  },
+  {
+    "name": "Historic Reclaimed Heart Pine",
+    "description": "Antique river-salvaged heavy timber pine planks with unmatched historical richness.",
+    "category": "Flooring",
+    "room": "Living Space",
+    "price": 7800
+  },
+  {
+    "name": "Standard Baseboard Moulding Prep",
+    "description": "Clean 3.5\" finger-joint pine baseboard molding and professional caulk sealant.",
+    "category": "Drywall, Trim & Moulding",
+    "room": "Living Space",
+    "price": 200
+  },
+  {
+    "name": "Craftsman Crown & Window Casings",
+    "description": "Adding bold multi-step crown molding and complete hardwood window frames.",
+    "category": "Drywall, Trim & Moulding",
+    "room": "Living Space",
+    "price": 650
+  },
+  {
+    "name": "Historic Plaster & Picture Hanging Rails",
+    "description": "Authentic double-member plaster ceiling medallions and traditional picture rail framing.",
+    "category": "Drywall, Trim & Moulding",
+    "room": "Living Space",
+    "price": 2800
+  },
+  {
+    "name": "Shiplap Accent & Wood Mantel Set",
+    "description": "Focal shiplap-faced electric fireplace surrounds and thick rustic cypress shelf mantel.",
+    "category": "Built-ins & Fireplace",
+    "room": "Living Space",
+    "price": 1500
+  },
+  {
+    "name": "Custom Media Center Bookshelves",
+    "description": "Hand-made hardwood custom cabinets flanking fireplace with adjustable shelving modules.",
+    "category": "Built-ins & Fireplace",
+    "room": "Living Space",
+    "price": 4500
+  },
+  {
+    "name": "Grand Walnut Library & Hearth",
+    "description": "Floor-to-ceiling walnut cabinetry with sliding library ladder and soapstone fireplace hearth.",
+    "category": "Built-ins & Fireplace",
+    "room": "Living Space",
+    "price": 12500
+  },
+  {
+    "name": "Standard Two-Coat Living Room Paint",
+    "description": "Professional quality interior satin paint with warm uniform wall coverage.",
+    "category": "Wall & Ceiling Paint",
+    "room": "Living Space",
+    "price": 200
+  },
+  {
+    "name": "Premium Sherwin Williams Duration Paint",
+    "description": "Scuff-resistant premium latex paint for walls and flat ceiling finish.",
+    "category": "Wall & Ceiling Paint",
+    "room": "Living Space",
+    "price": 380
+  },
+  {
+    "name": "Venetian Plaster or Customized Wallpaper",
+    "description": "Bespoke hand-rubbed textured plaster or premium metallic designer wallpaper rolls.",
+    "category": "Wall & Ceiling Paint",
+    "room": "Living Space",
+    "price": 1500
+  },
+  {
+    "name": "High-Efficiency Replacement Ceiling Fan",
+    "description": "Energy Star rated 52\" modern quiet ceiling fan with integrated LED light.",
+    "category": "Lighting & Electrical",
+    "room": "Living Space",
+    "price": 180
+  },
+  {
+    "name": "Recessed Can Lights & Fan Set",
+    "description": "Six ultra-thin recessed LED lights paired with a sleek modern DC ceiling fan.",
+    "category": "Lighting & Electrical",
+    "room": "Living Space",
+    "price": 650
+  },
+  {
+    "name": "Smart Cove Lights & Brass Chandelier",
+    "description": "Indirect dimmable LED strip molding, solid brass signature chandelier, and floor plugs.",
+    "category": "Lighting & Electrical",
+    "room": "Living Space",
+    "price": 2100
+  },
+  {
+    "name": "Standard Ground-Level Framing Lumber",
+    "description": "Direct pressure-treated pine lumber for low-profile deck joists.",
+    "category": "Foundation & Framing",
+    "room": "Outdoor Deck",
+    "price": 800
+  },
+  {
+    "name": "Elevated Structural Deck Posts & Framing",
+    "description": "Concrete deck piers, heavy duty posts, framing timber, and structural joist hangers.",
+    "category": "Foundation & Framing",
+    "room": "Outdoor Deck",
+    "price": 1800
+  },
+  {
+    "name": "Marine-Grade Premium Framing Timber",
+    "description": "Hurricane-rated Simpson steel ties, heavy poured concrete piles, and high-chemical wood treatment.",
+    "category": "Foundation & Framing",
+    "room": "Outdoor Deck",
+    "price": 3800
+  },
+  {
+    "name": "Pressure-Treated Pine Decking Boards",
+    "description": "Economical standard outdoor wood decking boards. Requires annual sealing.",
+    "category": "Decking Material",
+    "room": "Outdoor Deck",
+    "price": 600
+  },
+  {
+    "name": "Premium Red Cedar Decking Boards",
+    "description": "Rot-resistant natural cedar planks that stay comfortable underfoot in warm sun.",
+    "category": "Decking Material",
+    "room": "Outdoor Deck",
+    "price": 1800
+  },
+  {
+    "name": "Trex Enhance Composite Decking",
+    "description": "Zero-maintenance composite timber planks utilizing hidden deck fastener clips.",
+    "category": "Decking Material",
+    "room": "Outdoor Deck",
+    "price": 3500
+  },
+  {
+    "name": "Exotic Brazilian Ipe Hardwood Decking",
+    "description": "Ultra-dense ironwood planks with spectacular rich red-brown wood grains.",
+    "category": "Decking Material",
+    "room": "Outdoor Deck",
+    "price": 7500
+  },
+  {
+    "name": "Wood Baluster Railing & Step Timber",
+    "description": "Pressure-treated guard rails and vertical square timber spindles.",
+    "category": "Railing & Steps",
+    "room": "Outdoor Deck",
+    "price": 450
+  },
+  {
+    "name": "Powder-Coated Aluminum Railing",
+    "description": "Slim, sleek matte black aluminum railing frames that preserve yard views.",
+    "category": "Railing & Steps",
+    "room": "Outdoor Deck",
+    "price": 1100
+  },
+  {
+    "name": "Stainless Cable & Ipe Top Rail System",
+    "description": "Heavy marine cable strands tensioned between posts topped with premium Ipe wood cap.",
+    "category": "Railing & Steps",
+    "room": "Outdoor Deck",
+    "price": 3200
+  },
+  {
+    "name": "Standard Semi-Transparent Deck Stain",
+    "description": "Protective pigmented wood coating to seal out moisture and block UV rays.",
+    "category": "Staining & Sealing",
+    "room": "Outdoor Deck",
+    "price": 150
+  },
+  {
+    "name": "Premium Penofin Oil Sealer",
+    "description": "Deep-penetrating Brazilian rosewood oil sealer that enriches natural wood grain.",
+    "category": "Staining & Sealing",
+    "room": "Outdoor Deck",
+    "price": 350
+  },
+  {
+    "name": "Hand-Rubbed Exotic Ipe Oil Finish",
+    "description": "Two coats of wax end-grain sealer and premium UV Ipe hardwood oil finish.",
+    "category": "Staining & Sealing",
+    "room": "Outdoor Deck",
+    "price": 750
+  },
+  {
+    "name": "Cypress Privacy Slat Wall Screen",
+    "description": "Horizontal Cypress privacy panels to shield deck from neighboring yards.",
+    "category": "Built-In Shade & Seating",
+    "room": "Outdoor Deck",
+    "price": 550
+  },
+  {
+    "name": "L-Shaped Cypress Storage Benches",
+    "description": "Custom integrated Cypress bench boxes featuring lift-top storage lids.",
+    "category": "Built-In Shade & Seating",
+    "room": "Outdoor Deck",
+    "price": 1200
+  },
+  {
+    "name": "Grand Timber Cedar Pergola (12x12)",
+    "description": "Heavy-duty 6x6 timber posts holding elegant structural wood joists.",
+    "category": "Built-In Shade & Seating",
+    "room": "Outdoor Deck",
+    "price": 3800
+  }
+]

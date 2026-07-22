@@ -1,0 +1,6 @@
+{
+  "name": "Remodel Estimator",
+  "description": "An interactive tool to estimate remodeling costs dynamically with an AI Design Assistant, detailed summaries, and recommended upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
